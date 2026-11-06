@@ -1,0 +1,7 @@
+venv/
+.git/
+__pycache__/
+models_cache/
+data/evaluation_results.csv
+assets/*.mp3
+*.zip

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q01",
+    "passage": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Construction began in 1887 and was completed in 1889 for the World's Fair. The tower is 330 metres tall, about the same height as an 81-storey building. It was the tallest man-made structure in the world until the Chrysler Building in New York was finished in 1930. Today the tower attracts nearly seven million visitors every year.",
+    "question": "Where is the Eiffel Tower located?",
+    "reference_answer": "Champ de Mars in Paris, France"
+  },
+  {
+    "id": "Q02",
+    "passage": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Construction began in 1887 and was completed in 1889 for the World's Fair. The tower is 330 metres tall, about the same height as an 81-storey building. It was the tallest man-made structure in the world until the Chrysler Building in New York was finished in 1930. Today the tower attracts nearly seven million visitors every year.",
+    "question": "Who is the Eiffel Tower named after?",
+    "reference_answer": "Gustave Eiffel"
+  },
+  {
+    "id": "Q03",
+    "passage": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Construction began in 1887 and was completed in 1889 for the World's Fair. The tower is 330 metres tall, about the same height as an 81-storey building. It was the tallest man-made structure in the world until the Chrysler Building in New York was finished in 1930. Today the tower attracts nearly seven million visitors every year.",
+    "question": "In which year was construction completed?",
+    "reference_answer": "1889"
+  },
+  {
+    "id": "Q04",
+    "passage": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Construction began in 1887 and was completed in 1889 for the World's Fair. The tower is 330 metres tall, about the same height as an 81-storey building. It was the tallest man-made structure in the world until the Chrysler Building in New York was finished in 1930. Today the tower attracts nearly seven million visitors every year.",
+    "question": "How tall is the Eiffel Tower?",
+    "reference_answer": "330 metres"
+  },
+  {
+    "id": "Q05",
+    "passage": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Construction began in 1887 and was completed in 1889 for the World's Fair. The tower is 330 metres tall, about the same height as an 81-storey building. It was the tallest man-made structure in the world until the Chrysler Building in New York was finished in 1930. Today the tower attracts nearly seven million visitors every year.",
+    "question": "Which building surpassed the Eiffel Tower as the tallest man-made structure?",
+    "reference_answer": "Chrysler Building"
+  },
+  {
+    "id": "Q06",
+    "passage": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Construction began in 1887 and was completed in 1889 for the World's Fair. The tower is 330 metres tall, about the same height as an 81-storey building. It was the tallest man-made structure in the world until the Chrysler Building in New York was finished in 1930. Today the tower attracts nearly seven million visitors every year.",
+    "question": "How many visitors does the tower attract every year?",
+    "reference_answer": "nearly seven million"
+  },
+  {
+    "id": "Q07",
+    "passage": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Construction began in 1887 and was completed in 1889 for the World's Fair. The tower is 330 metres tall, about the same height as an 81-storey building. It was the tallest man-made structure in the world until the Chrysler Building in New York was finished in 1930. Today the tower attracts nearly seven million visitors every year.",
+    "question": "Who painted the Eiffel Tower?",
+    "reference_answer": "Answer not found"
+  },
+  {
+    "id": "Q08",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. It takes place mainly in the chloroplasts, which contain a green pigment called chlorophyll. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil. Using sunlight, they convert these into glucose and release oxygen as a by-product. The glucose provides energy for growth, while the oxygen is released through tiny pores called stomata.",
+    "question": "Where does photosynthesis mainly take place?",
+    "reference_answer": "chloroplasts"
+  },
+  {
+    "id": "Q09",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. It takes place mainly in the chloroplasts, which contain a green pigment called chlorophyll. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil. Using sunlight, they convert these into glucose and release oxygen as a by-product. The glucose provides energy for growth, while the oxygen is released through tiny pores called stomata.",
+    "question": "What is the green pigment in chloroplasts called?",
+    "reference_answer": "chlorophyll"
+  },
+  {
+    "id": "Q10",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. It takes place mainly in the chloroplasts, which contain a green pigment called chlorophyll. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil. Using sunlight, they convert these into glucose and release oxygen as a by-product. The glucose provides energy for growth, while the oxygen is released through tiny pores called stomata.",
+    "question": "Which gas do plants absorb from the air?",
+    "reference_answer": "carbon dioxide"
+  },
+  {
+    "id": "Q11",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. It takes place mainly in the chloroplasts, which contain a green pigment called chlorophyll. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil. Using sunlight, they convert these into glucose and release oxygen as a by-product. The glucose provides energy for growth, while the oxygen is released through tiny pores called stomata.",
+    "question": "What by-product is released during photosynthesis?",
+    "reference_answer": "oxygen"
+  },
+  {
+    "id": "Q12",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. It takes place mainly in the chloroplasts, which contain a green pigment called chlorophyll. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil. Using sunlight, they convert these into glucose and release oxygen as a by-product. The glucose provides energy for growth, while the oxygen is released through tiny pores called stomata.",
+    "question": "Through which tiny pores is oxygen released?",
+    "reference_answer": "stomata"
+  },
+  {
+    "id": "Q13",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. It takes place mainly in the chloroplasts, which contain a green pigment called chlorophyll. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil. Using sunlight, they convert these into glucose and release oxygen as a by-product. The glucose provides energy for growth, while the oxygen is released through tiny pores called stomata.",
+    "question": "What does the glucose provide energy for?",
+    "reference_answer": "growth"
+  },
+  {
+    "id": "Q14",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. It takes place mainly in the chloroplasts, which contain a green pigment called chlorophyll. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil. Using sunlight, they convert these into glucose and release oxygen as a by-product. The glucose provides energy for growth, while the oxygen is released through tiny pores called stomata.",
+    "question": "Where do plants get water from?",
+    "reference_answer": "soil"
+  },
+  {
+    "id": "Q15",
+    "passage": "Python is a high-level, general-purpose programming language created by Guido van Rossum. It was first released in 1991. Python emphasizes code readability and uses significant indentation. The language supports multiple programming paradigms, including procedural, object-oriented, and functional programming. It is widely used in web development, data science, and artificial intelligence. The Python Software Foundation manages the language's development and holds its intellectual property rights.",
+    "question": "Who created Python?",
+    "reference_answer": "Guido van Rossum"
+  },
+  {
+    "id": "Q16",
+    "passage": "Python is a high-level, general-purpose programming language created by Guido van Rossum. It was first released in 1991. Python emphasizes code readability and uses significant indentation. The language supports multiple programming paradigms, including procedural, object-oriented, and functional programming. It is widely used in web development, data science, and artificial intelligence. The Python Software Foundation manages the language's development and holds its intellectual property rights.",
+    "question": "When was Python first released?",
+    "reference_answer": "1991"
+  },
+  {
+    "id": "Q17",
+    "passage": "Python is a high-level, general-purpose programming language created by Guido van Rossum. It was first released in 1991. Python emphasizes code readability and uses significant indentation. The language supports multiple programming paradigms, including procedural, object-oriented, and functional programming. It is widely used in web development, data science, and artificial intelligence. The Python Software Foundation manages the language's development and holds its intellectual property rights.",
+    "question": "What does Python emphasize?",
+    "reference_answer": "code readability"
+  },
+  {
+    "id": "Q18",
+    "passage": "Python is a high-level, general-purpose programming language created by Guido van Rossum. It was first released in 1991. Python emphasizes code readability and uses significant indentation. The language supports multiple programming paradigms, including procedural, object-oriented, and functional programming. It is widely used in web development, data science, and artificial intelligence. The Python Software Foundation manages the language's development and holds its intellectual property rights.",
+    "question": "Which organization manages Python's development?",
+    "reference_answer": "Python Software Foundation"
+  },
+  {
+    "id": "Q19",
+    "passage": "Python is a high-level, general-purpose programming language created by Guido van Rossum. It was first released in 1991. Python emphasizes code readability and uses significant indentation. The language supports multiple programming paradigms, including procedural, object-oriented, and functional programming. It is widely used in web development, data science, and artificial intelligence. The Python Software Foundation manages the language's development and holds its intellectual property rights.",
+    "question": "What does Python use to structure code blocks?",
+    "reference_answer": "significant indentation"
+  },
+  {
+    "id": "Q20",
+    "passage": "Python is a high-level, general-purpose programming language created by Guido van Rossum. It was first released in 1991. Python emphasizes code readability and uses significant indentation. The language supports multiple programming paradigms, including procedural, object-oriented, and functional programming. It is widely used in web development, data science, and artificial intelligence. The Python Software Foundation manages the language's development and holds its intellectual property rights.",
+    "question": "What is the latest released version of Python?",
+    "reference_answer": "Answer not found"
+  }
+]

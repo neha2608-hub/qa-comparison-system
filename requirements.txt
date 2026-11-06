@@ -1,0 +1,17 @@
+# Tested combination for Windows 10/11 + Python 3.10, 3.11 or 3.12 (NOT 3.13).
+# On Windows, "pip install torch" from PyPI installs the CPU build (no NVIDIA GPU needed).
+torch==2.4.1
+transformers==4.46.3
+huggingface_hub==0.26.2
+tokenizers==0.20.3
+safetensors==0.4.5
+sentencepiece==0.2.0
+protobuf==4.25.5
+numpy==1.26.4
+pandas==2.2.3
+pyarrow==17.0.0
+Pillow==10.4.0
+scikit-learn==1.5.2
+streamlit==1.39.0
+gTTS==2.5.4
+requests>=2.31,<3

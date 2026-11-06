@@ -1,0 +1,8 @@
+[server]
+# "none" avoids a harmless but noisy torch/streamlit file-watcher error on Windows.
+# After editing code, stop Streamlit (Ctrl+C) and run it again.
+fileWatcherType = "none"
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
